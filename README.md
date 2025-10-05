@@ -4,7 +4,7 @@ This project implements a distributed ticketing platform for buses and trains us
 - Ballerina for microservices
 - Kafka for event-driven communication
 - MongoDB for persistence
-- Docker Compose** for orchestration
+- Docker Compose for orchestration
 
 ## Services
 1. Passenger Service — register/login and manage accounts
