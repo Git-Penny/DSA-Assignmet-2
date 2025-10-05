@@ -14,6 +14,10 @@ This project implements a distributed ticketing platform for buses and trains us
 5. Notification Service — send updates
 6. Admin Service — manage reports and disruptions
 
+## Prerequisites
+- Docker and Docker Compose
+- Kafka CLI tools (for topic initialization)
+
 ## How to Run
 ```bash
 docker-compose up --build
